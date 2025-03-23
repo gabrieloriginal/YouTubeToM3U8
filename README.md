@@ -26,8 +26,8 @@ You can also run the program locally by `python YouTubeLinkGrabber.py > YouTubeL
   
 |           | Link                                                                       |
 |-----------|----------------------------------------------------------------------------|
-| M3U8 file | https://raw.githubusercontent.com/username/YouTubeToM3U8/main/youtube.m3u8 |
-| EPG       | https://raw.githubusercontent.com/username/YouTubeToM3U8/main/epg.xml      |
+| M3U8 file | https://raw.githubusercontent.com/gabrieloriginal/YouTubeToM3U8/main/youtube.m3u8 |
+| EPG       | https://raw.githubusercontent.com/gabrieloriginal/YouTubeToM3U8/main/epg.xml      |
 
 
 ## Future additions
