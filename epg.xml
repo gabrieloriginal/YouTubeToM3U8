@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="JazzCafeAmbience.yt">
+    <display-name lang="en">Jazz Cafe Ambience</display-name>
+  </channel>
+  <programme channel="JazzCafeAmbience.yt" start="20250616030000 +0100" stop="20250616060000 +0100">
+    <title lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, Sleeping</title>
+    <desc lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, SleepingGive me your opinion, like, comment and subscribe for more...</desc>
+    <icon src="https://i.ytimg.com/vi/AEKtQW93OVg/maxresdefault.jpg?v=6374c695"/>
+  </programme>
+  <programme channel="JazzCafeAmbience.yt" start="20250616060000 +0100" stop="20250616090000 +0100">
+    <title lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, Sleeping</title>
+    <desc lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, SleepingGive me your opinion, like, comment and subscribe for more...</desc>
+    <icon src="https://i.ytimg.com/vi/AEKtQW93OVg/maxresdefault.jpg?v=6374c695"/>
+  </programme>
+  <programme channel="JazzCafeAmbience.yt" start="20250616090000 +0100" stop="20250616120000 +0100">
+    <title lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, Sleeping</title>
+    <desc lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, SleepingGive me your opinion, like, comment and subscribe for more...</desc>
+    <icon src="https://i.ytimg.com/vi/AEKtQW93OVg/maxresdefault.jpg?v=6374c695"/>
+  </programme>
+  <programme channel="JazzCafeAmbience.yt" start="20250616120000 +0100" stop="20250616150000 +0100">
+    <title lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, Sleeping</title>
+    <desc lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, SleepingGive me your opinion, like, comment and subscribe for more...</desc>
+    <icon src="https://i.ytimg.com/vi/AEKtQW93OVg/maxresdefault.jpg?v=6374c695"/>
+  </programme>
+  <programme channel="JazzCafeAmbience.yt" start="20250616150000 +0100" stop="20250616180000 +0100">
+    <title lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, Sleeping</title>
+    <desc lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, SleepingGive me your opinion, like, comment and subscribe for more...</desc>
+    <icon src="https://i.ytimg.com/vi/AEKtQW93OVg/maxresdefault.jpg?v=6374c695"/>
+  </programme>
+  <programme channel="JazzCafeAmbience.yt" start="20250616180000 +0100" stop="20250616210000 +0100">
+    <title lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, Sleeping</title>
+    <desc lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, SleepingGive me your opinion, like, comment and subscribe for more...</desc>
+    <icon src="https://i.ytimg.com/vi/AEKtQW93OVg/maxresdefault.jpg?v=6374c695"/>
+  </programme>
+  <programme channel="JazzCafeAmbience.yt" start="20250616210000 +0100" stop="20250617000000 +0100">
+    <title lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, Sleeping</title>
+    <desc lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, SleepingGive me your opinion, like, comment and subscribe for more...</desc>
+    <icon src="https://i.ytimg.com/vi/AEKtQW93OVg/maxresdefault.jpg?v=6374c695"/>
+  </programme>
+  <programme channel="JazzCafeAmbience.yt" start="20250617000000 +0100" stop="20250617030000 +0100">
+    <title lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, Sleeping</title>
+    <desc lang="en">Cozy Jazz Music &amp; Bookstore Cafe Ambience with Relaxing Smooth Piano Jazz Music for Study, SleepingGive me your opinion, like, comment and subscribe for more...</desc>
+    <icon src="https://i.ytimg.com/vi/AEKtQW93OVg/maxresdefault.jpg?v=6374c695"/>
+  </programme>
+</tv>
