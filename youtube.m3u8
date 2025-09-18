@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Chillhop.yt" tvg-name="Chillhop Music (jazzy & lofi hip hop beats)" group-title="Music", Chillhop Music (jazzy & lofi hip hop beats)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758251586/ei/4nXMaKWiC4H_2_gPwZ6KgQ8/ip/20.171.51.215/id/5yx6BWlEVcY.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539855/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSVb5R5Xl_INgvOo144vLdInj82MuV-Iwvo4SWcNpMStgSygvkU5dvalVSyKHh7qxtZYgujZLBvf/spc/hcYD5ZkLEy_QPNEQiKIDRoxE1wrq-In3i74UzLVis4AkOD97XFFVNNb1u0FEZ7jAub0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSiyjyC8h6D5wgqZJSTA4YbaAh72hUcU0CdYStMIH2RwCIG0c4xQCnY863njk8uJ-lq_R6NkHVPdR8kl6T20xpPmM/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Avex.yt" tvg-name="Avex J-Pop 24/7" group-title="Music", Avex J-Pop 24/7
 https://www.youtube.com/watch?v=1oh9IEwBbFY
@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="ABCNewsAU.yt" tvg-name="ABC News (AU)" group-title="News", ABC News (AU)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758251593/ei/6XXMaM7WHIWYsfIPuMDvyAs/ip/20.171.51.215/id/vOTiJkg1voo.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539855/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSWmCMQk76mrlOiWht1nDcpRPvCHdY41ereZdJAsSwW8jZJZCzUsrd7qJzgjPGbepSiIf3_1MkIn/spc/hcYD5Ya33qFUk-5-qRyGuTOoInE2lzew09BU5-znzgaXEp-Z_vLCqVaO38teG9lKiz-dBaCC/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdXAI01whiQokBdluxIWexC1Kiyp7jDvs9ypibi8jjOICIDb5Pi0tBAL16VV2dm4LVqE4Z_Hst9A9SdtkSR7Weajc/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg.yt" tvg-name="Bloomberg Global" group-title="News", Bloomberg Global
 https://www.youtube.com/watch?v=1oh9IEwBbFY
