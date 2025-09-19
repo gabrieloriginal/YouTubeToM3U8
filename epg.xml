@@ -1,86 +1,43 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="Chillhop.yt">
-    <display-name lang="en">Chillhop Music (jazzy &amp; lofi hip hop beats)</display-name>
-  </channel>
-  <programme channel="Chillhop.yt" start="20250918210000 +0100" stop="20250919000000 +0100">
-    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
-    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾🍜 New collectible ...</desc>
-    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
-  </programme>
-  <programme channel="Chillhop.yt" start="20250919000000 +0100" stop="20250919030000 +0100">
-    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
-    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾🍜 New collectible ...</desc>
-    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
-  </programme>
-  <programme channel="Chillhop.yt" start="20250919030000 +0100" stop="20250919060000 +0100">
-    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
-    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾🍜 New collectible ...</desc>
-    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
-  </programme>
-  <programme channel="Chillhop.yt" start="20250919060000 +0100" stop="20250919090000 +0100">
-    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
-    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾🍜 New collectible ...</desc>
-    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
-  </programme>
-  <programme channel="Chillhop.yt" start="20250919090000 +0100" stop="20250919120000 +0100">
-    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
-    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾🍜 New collectible ...</desc>
-    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
-  </programme>
-  <programme channel="Chillhop.yt" start="20250919120000 +0100" stop="20250919150000 +0100">
-    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
-    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾🍜 New collectible ...</desc>
-    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
-  </programme>
-  <programme channel="Chillhop.yt" start="20250919150000 +0100" stop="20250919180000 +0100">
-    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
-    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾🍜 New collectible ...</desc>
-    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
-  </programme>
-  <programme channel="Chillhop.yt" start="20250919180000 +0100" stop="20250919210000 +0100">
-    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
-    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾🍜 New collectible ...</desc>
-    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
-  </programme>
   <channel id="ABCNewsAU.yt">
     <display-name lang="en">ABC News (AU)</display-name>
   </channel>
-  <programme channel="ABCNewsAU.yt" start="20250918210000 +0100" stop="20250919000000 +0100">
+  <programme channel="ABCNewsAU.yt" start="20250919010000 +0100" stop="20250919040000 +0100">
     <title lang="en">Watch ABC NEWS Australia live | ABC NEWS</title>
     <desc lang="en">Subscribe: http://ab.co/1svxLVE  Read more here: https://www.abc.net.au/news/ABC NEWS provides around the clock coverage of news events as they break in Aust...</desc>
     <icon src="https://i.ytimg.com/vi/vOTiJkg1voo/maxresdefault.jpg?v=66d66096"/>
   </programme>
-  <programme channel="ABCNewsAU.yt" start="20250919000000 +0100" stop="20250919030000 +0100">
+  <programme channel="ABCNewsAU.yt" start="20250919040000 +0100" stop="20250919070000 +0100">
     <title lang="en">Watch ABC NEWS Australia live | ABC NEWS</title>
     <desc lang="en">Subscribe: http://ab.co/1svxLVE  Read more here: https://www.abc.net.au/news/ABC NEWS provides around the clock coverage of news events as they break in Aust...</desc>
     <icon src="https://i.ytimg.com/vi/vOTiJkg1voo/maxresdefault.jpg?v=66d66096"/>
   </programme>
-  <programme channel="ABCNewsAU.yt" start="20250919030000 +0100" stop="20250919060000 +0100">
+  <programme channel="ABCNewsAU.yt" start="20250919070000 +0100" stop="20250919100000 +0100">
     <title lang="en">Watch ABC NEWS Australia live | ABC NEWS</title>
     <desc lang="en">Subscribe: http://ab.co/1svxLVE  Read more here: https://www.abc.net.au/news/ABC NEWS provides around the clock coverage of news events as they break in Aust...</desc>
     <icon src="https://i.ytimg.com/vi/vOTiJkg1voo/maxresdefault.jpg?v=66d66096"/>
   </programme>
-  <programme channel="ABCNewsAU.yt" start="20250919060000 +0100" stop="20250919090000 +0100">
+  <programme channel="ABCNewsAU.yt" start="20250919100000 +0100" stop="20250919130000 +0100">
     <title lang="en">Watch ABC NEWS Australia live | ABC NEWS</title>
     <desc lang="en">Subscribe: http://ab.co/1svxLVE  Read more here: https://www.abc.net.au/news/ABC NEWS provides around the clock coverage of news events as they break in Aust...</desc>
     <icon src="https://i.ytimg.com/vi/vOTiJkg1voo/maxresdefault.jpg?v=66d66096"/>
   </programme>
-  <programme channel="ABCNewsAU.yt" start="20250919090000 +0100" stop="20250919120000 +0100">
+  <programme channel="ABCNewsAU.yt" start="20250919130000 +0100" stop="20250919160000 +0100">
     <title lang="en">Watch ABC NEWS Australia live | ABC NEWS</title>
     <desc lang="en">Subscribe: http://ab.co/1svxLVE  Read more here: https://www.abc.net.au/news/ABC NEWS provides around the clock coverage of news events as they break in Aust...</desc>
     <icon src="https://i.ytimg.com/vi/vOTiJkg1voo/maxresdefault.jpg?v=66d66096"/>
   </programme>
-  <programme channel="ABCNewsAU.yt" start="20250919120000 +0100" stop="20250919150000 +0100">
+  <programme channel="ABCNewsAU.yt" start="20250919160000 +0100" stop="20250919190000 +0100">
     <title lang="en">Watch ABC NEWS Australia live | ABC NEWS</title>
     <desc lang="en">Subscribe: http://ab.co/1svxLVE  Read more here: https://www.abc.net.au/news/ABC NEWS provides around the clock coverage of news events as they break in Aust...</desc>
     <icon src="https://i.ytimg.com/vi/vOTiJkg1voo/maxresdefault.jpg?v=66d66096"/>
   </programme>
-  <programme channel="ABCNewsAU.yt" start="20250919150000 +0100" stop="20250919180000 +0100">
+  <programme channel="ABCNewsAU.yt" start="20250919190000 +0100" stop="20250919220000 +0100">
     <title lang="en">Watch ABC NEWS Australia live | ABC NEWS</title>
     <desc lang="en">Subscribe: http://ab.co/1svxLVE  Read more here: https://www.abc.net.au/news/ABC NEWS provides around the clock coverage of news events as they break in Aust...</desc>
     <icon src="https://i.ytimg.com/vi/vOTiJkg1voo/maxresdefault.jpg?v=66d66096"/>
   </programme>
-  <programme channel="ABCNewsAU.yt" start="20250919180000 +0100" stop="20250919210000 +0100">
+  <programme channel="ABCNewsAU.yt" start="20250919220000 +0100" stop="20250920010000 +0100">
     <title lang="en">Watch ABC NEWS Australia live | ABC NEWS</title>
     <desc lang="en">Subscribe: http://ab.co/1svxLVE  Read more here: https://www.abc.net.au/news/ABC NEWS provides around the clock coverage of news events as they break in Aust...</desc>
     <icon src="https://i.ytimg.com/vi/vOTiJkg1voo/maxresdefault.jpg?v=66d66096"/>
