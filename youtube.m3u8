@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="NHKWorld.yt" tvg-name="NHK World Japan" group-title="News", NHK World Japan
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782928599/ei/dwBFatfVAe-c2_gPoNvp-QM/ip/20.169.74.50/id/f0lYkdA-Gtw.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEXRXYsie2c-r2Xw-frqfyLySHJQXYEPh6IiNU3YbaYbFs7k_czUGHAJaT_P5jVbNeypkvTFjNZC/spc/SQ-umoKrBU5TjIT3957wIKf-7kW7Lj-snY-A01GkT0Sc4B9ljqaK1hFZ0AloSiM1t0AaUw/vprv/1/go/1/ns/lkJgNKT5e5DVQ83NTqgQrKkW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52016550/dover/11/n/Rua56-Mq2Ir5l9n/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAPDvG2gyFl-BujS84zzDkmtUVYPvnOCXU1RBPkR0e1ASAiADYNfLD5cwKsF_P9PslcgdBlf-P1U8IjRmh_tXf83RgA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="JazzRadio.yt" tvg-name="Relaxing Jazz Piano Radio" group-title="Music", Relaxing Jazz Piano Radio
 https://www.youtube.com/watch?v=1oh9IEwBbFY
